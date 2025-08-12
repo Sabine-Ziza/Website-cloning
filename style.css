@@ -94,7 +94,7 @@ opacity: 2;
     height: 50px;
     margin: 10px;
     width: 300px;
-    position: relative;
+    
     
 }
 .input-container{
@@ -104,6 +104,8 @@ opacity: 2;
     
     height: 70px;
     margin-right: 20px;
+    position: fixed;
+    
 
     
 
@@ -327,7 +329,7 @@ h5{
     width:110%;
     margin:35px;
     border-radius:20px;
-    padding-top:30px;
+    padding-top:20px;
     padding-left:90px;
     margin-top:-400px;
     
@@ -361,11 +363,3 @@ h5{
     
     
 }
-/* .accommodation-photo>span{
-    position:absolute;
-    bottom: 10px;
-    left:50px;
-    color:#fff;
-    font-weight: 700;
-    
-} */
